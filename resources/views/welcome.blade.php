@@ -4,6 +4,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Laravel Welcome</title>
+
+    <!--Favicon layout-->
+    <link rel="icon" href="{{ Vite::asset('resources/images/logo_community_links.png') }}">
+
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
